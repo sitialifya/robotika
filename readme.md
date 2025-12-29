@@ -76,7 +76,7 @@ Jika membutuhkan versi dengan fitur tambahan, berikut varian yang dapat disiapka
 - **WebSocket realtime** - Respons kontrol yang lebih cepat dan realtime
 
 Hubungi developer untuk mendapatkan varian dengan fitur-fitur tersebut.
-
+https://youtu.be/3kOjfHViZuc?si=njkjI37ZDKNrMLs3
 ---
 
 © 2023 ESP32 Car Controller Project | Dokumentasi ini diperbarui terakhir pada 15 September 2023
